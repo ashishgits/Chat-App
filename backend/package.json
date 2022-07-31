@@ -9,7 +9,8 @@
   "author": "Ashish Bhandari",
   "license": "ISC",
   "dependencies": {
-    "socket.io": "^4.5.1"
+    "cors": "^2.8.5",
+    "socket.io": "^2.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
