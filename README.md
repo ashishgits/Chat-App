@@ -10,7 +10,6 @@
 <li>CSS has been used for styling the application.</li>
 <li>Added Client sided JavaScript for the purpose of playing with DOM elements.</li>
 <li>First of all stored all the DOM elements in a respectives JS variable.</li>
-<li>Used Audio file (ting.mp3) which gives notification on receiving the messages.</li>
 <li>Everytime a new user tries to join, first of all ask his/her name and let the server know.</li>
 <li>If a new user joins, receive the event from the server using eventListner.</li>
 <li>Receive message from server using receive function.</li>
@@ -24,7 +23,7 @@
 # Process to run the app
 <ol>
   <li> run <b>nodemon index</b>
-  <li> Install the extension 'live server' for Vs Code. Extension Id - <b>ritwickdey.liveserver </b>
+  <li> Install the extension 'live server' for Vs Code.
   <li> After the extension gets installed navigate to index.html and open it to edit.
   <li> Right click anywhere in the file <b>index.html</b> and from the menu that appears select <b> Open with Live server </b>
   <li> A instance of the application will appear in the browser. 
